@@ -1,7 +1,7 @@
 # Full-Stack-Engineer
 Assessment for Full-Stack Engineer 
 
-# MERN Stack Developer Assessment Test
+# Full Stack Engineer Assessment Test
 ## Objective
 Create a real-time chat application with video call functionality to demonstrate proficiency in the MERN stack, WebRTC, Socket.io, and NestJS. The application should allow users to register, log in, create/join chat rooms, send text messages, and initiate video calls. The task should be completed within 8 hours.
 
